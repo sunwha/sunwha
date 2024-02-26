@@ -2,6 +2,13 @@
 
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&labelColor=black&color=black
  "Javasciprt logo")
+ 
+ ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&labelColor=black&color=black
+ "React logo")
+ 
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&labelColor=black&color=black
+ "Typescript logo")
+
 
 
 <!--
