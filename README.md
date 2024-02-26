@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&labelColor=white "Javasciprt logo")
+
+
 <!--
 **sunwha/sunwha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
