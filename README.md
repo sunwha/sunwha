@@ -9,7 +9,8 @@
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&labelColor=black&color=black
  "Typescript logo")
 
-https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white "CSS logo")
+![CSS](https://img.shields.io/badge/CSS-darkorange?style=plastic&logo=CSS3&logoColor=white "CSS logo")
+
 
 
 
