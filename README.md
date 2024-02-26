@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <center>### Skills</center>
+
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&labelColor=black&color=black
  "Javasciprt logo") ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&labelColor=black&color=black "CSS logo")  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&labelColor=black&color=black
  "React logo") ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&labelColor=black&color=black
